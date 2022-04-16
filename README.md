@@ -1,2 +1,2 @@
 # Meta-Learning-with-Task-Specific-Pruning
-The implementation of MTSP
+The implementation of the MTSP
