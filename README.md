@@ -1,5 +1,5 @@
-# Meta-Learning-with-Task-Specific-Pruning
-The implementation of the MTSP
+# Meta-Learning-with-Catfish
+The implementation of the Catfish.
 
 
 Coming soon...
